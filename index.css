@@ -1,0 +1,46 @@
+* {
+  margin: 0rem;
+  padding: 0rem;
+}
+
+body {
+  background-color: #FFE2F4;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+img {
+  width: 30%;
+}
+
+h1 {
+  margin: 2rem;
+}
+.facts {
+  background-color: #FFFFFF;
+  margin: 3rem auto;
+  padding: 4rem;
+  border-radius: 3rem;
+  width: 60%;
+  border-bottom-right-radius: 0;
+}
+
+p {
+  font-size: larger;
+  font-weight: 800;
+}
+
+#catGif {
+  width: 8%;
+  position: absolute;
+  right: 11rem;
+  bottom: 10rem;
+  border-radius: 3rem;
+}
+
+#bottomImg {
+  position: absolute;
+  bottom: 0;
+  right: 31rem;
+
+}
