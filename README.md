@@ -10,4 +10,4 @@
 ## Images
   
 ### Landing page
-  ![]
+  ![]https://github.com/sheetalMehta7/cat-facts/blob/main/photos/SiteImg.jpg
